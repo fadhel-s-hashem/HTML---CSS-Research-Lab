@@ -11,7 +11,7 @@ ANSWER:
 
 2. What does HTML stand for?
 
-ANSWER:
+ANSWER: HyperText Markup Language.
 
 ======================================================================
 
